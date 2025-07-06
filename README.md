@@ -4,21 +4,21 @@ Welcome to the Early Disease Detection project! This repository contains a machi
 Introduction
 This project utilizes machine learning models to predict the likelihood of diseases such as cardiovascular disease, hypertension, and more, using demographic, lifestyle, and clinical data. The aim is to assist healthcare professionals and individuals in identifying health risks early, enabling timely intervention and better health outcomes.
 
-Features
+# Features
 Predicts risk for multiple diseases based on user data
 Data preprocessing and feature engineering
 Model training, evaluation, and reporting
 Visualizations for data exploration and results
 Modular and easy-to-extend codebase
 
-Technologies Used
+# Technologies Used
 Python (Jupyter Notebook)
 Pandas, NumPy (data manipulation)
 Seaborn, Matplotlib (visualization)
 scikit-learn (machine learning)
 StandardScaler, LabelEncoder (preprocessing)
 
-Dataset
+# Dataset
 The dataset includes the following features:
 
 Feature	Description
